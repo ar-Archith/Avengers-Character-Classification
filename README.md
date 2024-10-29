@@ -25,9 +25,9 @@ This repository implements a Convolutional Neural Network (CNN) model to classif
    ```bash
    pip install tensorflow keras matplotlib numpy
 3. **Prepare Data:**
-   This specific project utilizes the `Avengers` dataset, readily available on Kaggle: Download Link: [Avengers-Kaggle]((https://www.kaggle.com))
-   After downloading, ensure you have a directory named `Avengers` containing three subdirectories: `train`, `test` and `val`.
-   These subdirectories should further contain subfolders named after each Avenger character with their respective images.
+   - This specific project utilizes the `Avengers` dataset, readily available on Kaggle: Download Link: [Avengers-Kaggle](https://www.kaggle.com/datasets/archithramesh/avengers)
+   - After downloading, ensure you have a directory named `Avengers` containing three subdirectories: `train`, `test` and `val`.
+   - These subdirectories should further contain subfolders named after each Avenger character with their respective images.
 5. **Run the Notebook:**
    Open the `avengers_character_classification.ipynb` file in your preferred Jupyter Notebook environment and execute the code cells.
 
