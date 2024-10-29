@@ -1,5 +1,4 @@
 # Avengers Character Image Classification with CNNs
-## Dataset, to be uploaded soon...
 
 This repository implements a Convolutional Neural Network (CNN) model to classify images of characters from the Avengers universe.
 
